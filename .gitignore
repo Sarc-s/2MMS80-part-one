@@ -1,2 +1,3 @@
 data/MNIST_test.csv
 data/MNIST_train.csv
+*.pdf
